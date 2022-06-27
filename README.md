@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm S M Tariqul Islam</h1>
-<h3 align="center">I will learn Full Stack Developer. My hobby is a problem-solving to competitive programming. I love to solving problem. I have know c and c++.</h3>
+<h3 align="center">I am passionate about problem solving, doing competitive programming in the C++ language, and solving problems as a different online judge. Now I am learning web development. My main goal will be full stack development. I love to learn about new technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smtariqulislam&label=Profile%20views&color=0e75b6&style=flat" alt="smtariqulislam" /> </p>
 
