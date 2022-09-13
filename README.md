@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm S M Tariqul Islam</h1>
-<h3 align="center">I love problem solving, and I solved many problems in the C++ language, and I did some projects in HTML, CSS, boostrap, tailwind, and the JavaScipte language. I love to learn about new technology.</h3>
+<h3 align="center">I love problem solving, and I solved many problems in the C++ language, and I did some projects in HTML, CSS, boostrap, and the JavaScipte language. I love to learn about new technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smtariqulislam&label=Profile%20views&color=0e75b6&style=flat" alt="smtariqulislam" /> </p>
 
