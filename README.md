@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/smtariqul_islam" target="blank"><img src="https://img.shields.io/twitter/follow/smtariqul_islam?logo=twitter&style=for-the-badge" alt="smtariqul_islam" /></a> </p>
 
-- 🌱 I’m currently learning **reactjs & nodejs**
+- 🌱 I’m currently learning **reactjs**
 
-- 📫 How to reach me **s.m.tariqul.islam.eu181400082@gmail.com**
+- 📫 How to reach me **sm.tariqul.islam.cse@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
