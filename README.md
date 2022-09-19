@@ -1,24 +1,4 @@
 <h1 align="center">Hi 👋, I'm S M Tariqul Islam</h1>
-<h3 align="center">I love problem solving, and I solved many problems in the C++ language, and I did some projects in HTML, CSS, boostrap, and the JavaScipte language. I love to learn about new technology.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smtariqulislam&label=Profile%20views&color=0e75b6&style=flat" alt="smtariqulislam" /> </p>
-
-<p align="left"> <a href="https://twitter.com/smtariqul_islam" target="blank"><img src="https://img.shields.io/twitter/follow/smtariqul_islam?logo=twitter&style=for-the-badge" alt="smtariqul_islam" /></a> </p>
-
-- 🌱 I’m currently learning **reactjs**
-
-- 📫 How to reach me **sm.tariqul.islam.cse@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/smtariqul_islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smtariqul_islam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tariqul-islam-25b2a717b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tariqul-islam-25b2a717b" height="30" width="40" /></a>
-<a href="https://fb.com/smtariqulislam00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="smtariqulislam00" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/s_m_tariqul_isl1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="s_m_tariqul_isl1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/islamtariqul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="islamtariqul" height="30" width="40" /></a>
-</p>
-
-<h1 align="center">Hi 👋, I'm S M Tariqul Islam</h1>
 <h3 align="center">I love problem solving, and I solved many problems in the C++ language, and I did some projects in
     HTML, CSS, boostrap, and the JavaScipte language. I love to learn about new technology.</h3>
 
