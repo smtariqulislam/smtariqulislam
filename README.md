@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm S M Tariqul Islam</h1>
-<h3 align="center">I love problem solving, and I solved many problems in the C++ language, and I did some projects in
+<h3 align="center">I love problem solving, and I solved 100+ problems in the C++ language, and I did some projects in
     HTML, CSS, boostrap, and the JavaScipte language. I love to learn about new technology.</h3>
 
 <p align="left"> <img
@@ -49,6 +49,6 @@
              alt="bootstrap" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                  alt="javascript" width="40" height="40" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-                    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
+                    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smtariqulislam&"
         alt="smtariqulislam" /></p>
