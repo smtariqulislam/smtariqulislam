@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm S M Tariqul Islam</h1>
-<h3 align="center">I love problem solving, and I solved 100+ problems in the C++ language, and I did some projects in
+<h3 align="center">I love problem solving in the C++ language and I did some projects in
     HTML, CSS, boostrap, and the JavaScipte language. I love to learn about new technology.</h3>
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=smtariqulislam&label=Profile%20views&color=0e75b6&style=flat"
-        alt="smtariqulislam" /> </p>
+        alt="smtariqulislam" /></p>
 
 <p align="left"> <a href="https://twitter.com/smtariqul_islam" target="blank"><img
             src="https://img.shields.io/twitter/follow/smtariqul_islam?logo=twitter&style=for-the-badge"
@@ -48,6 +48,7 @@
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=smtariqulislam&show_icons=true&locale=en&layout=compact"
         alt="smtariqulislam" /></p>
+        
 <p style="background-color:blue;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smtariqulislam&"
         alt="smtariqulislam" /></p>
 
