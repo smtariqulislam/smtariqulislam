@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm S M Tariqul Islam</h1>
 
 # 💫 About Me:
-<h4>I love problem solving in the C++ language and I did some projects in HTML, CSS, boostrap, and the JavaScipte language. I love to learn about new technology.</h4>
+<h3>I love problem-solving in the C++ language, and I have done some projects in HTML, CSS, Bootstrap, and JavaScript. I love to learn about new technology. I want to be a software engineer.</h3>
 
 ## - 📫 How to reach me: **sm.tariqul.islam.cse@gmail.com**
 
