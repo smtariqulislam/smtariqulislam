@@ -3,10 +3,10 @@
 # 💫 About Me:
 <h3>I love problem-solving in the C++ language, and I have done some projects in HTML, CSS, Bootstrap, and JavaScript. I love to learn about new technology. I want to be a software engineer.</h3>
 
-## - 📫 How to reach me: **sm.tariqul.islam.cse@gmail.com**
+- 📫 How to reach me: **sm.tariqul.islam.cse@gmail.com**
 
 
-## 👨‍💻 My CP Profile:
+# 👨‍💻 My CP Profile:
 <p align="left">
 <a href="https://www.codechef.com/users/tariqul00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tariqul00" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/islamtariqul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="islamtariqul" height="30" width="40" /></a>
