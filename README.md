@@ -57,7 +57,7 @@ Tools:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=smtariqulislam&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### Leetcode Stats:
-![Leetcode Stats](https://leetcard.jacoblin.cool/tariqul20)
+![Leetcode Stats](https://leetcard.jacoblin.cool/islamtariqul)
 
 
 
