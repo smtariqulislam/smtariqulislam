@@ -1,5 +1,4 @@
-
-[![](https://visitcount.itsvg.in/api?id=smtariqulislam&icon=0&color=0)](https://visitcount.itsvg.in) 
+![](https://komarev.com/ghpvc/?username=smtariqulislam)
 
 <h1 align="center">Hi 👋, I'm S M Tariqul Islam</h1>
 
