@@ -33,7 +33,10 @@ Tools:
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
+Language Use:
 
+
+<img align="center" alt="Tariqul's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smtariqulislam&show_icons=true&hide_border=false&title_color=midnight-purple&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </h2>
 
@@ -46,6 +49,8 @@ Tools:
  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="s_m_tariqul_isl1" height="30" width="40" /></a>
 </p>
 
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/smtariqulislam00/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sm-tariqulislam/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/smtariqul_islam) 
 
@@ -53,7 +58,7 @@ Tools:
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=smtariqulislam&theme=midnight-purple&hide_border=true&locale=en)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=smtariqulislam&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=smtariqulislam&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 ### Leetcode Stats:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/islamtariqul)
