@@ -2,10 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm S M Tariqul Islam</h1>
 
-
 # 💫 About Me:
 <h3>I love problem-solving in the C++ language, and I have done some projects in HTML, CSS, Bootstrap, and JavaScript. I love to learn about new technology. I want to be a software engineer.</h3>
-
 - 📫 How to reach me: **sm.tariqul.islam.cse@gmail.com**
 
 # 💻 Tech Stack:
@@ -15,7 +13,6 @@ Programming Languages:
 
 
 <img align="center" alt="Tariqul's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smtariqulislam&show_icons=true&hide_border=false&title_color=midnight-purple&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
 </h2>
 
 # 👨‍💻 My CP Profile:
