@@ -6,6 +6,10 @@
 <h3>I love problem-solving in the C++ language, and I have done some projects in HTML, CSS, Bootstrap, and JavaScript. I love to learn about new technology. I want to be a software engineer.</h3>
 - 📫 How to reach me: **sm.tariqul.islam.cse@gmail.com**
 
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=smtariqulislam&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=smtariqulislam&theme=midnight-purple&hide_border=true&locale=en)<br/>
+
 # 💻 Tech Stack:
 <h2>
 
@@ -14,6 +18,7 @@ Programming Languages:
 
 <img align="center" alt="Tariqul's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smtariqulislam&show_icons=true&hide_border=false&title_color=midnight-purple&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 </h2>
+
 
 # 👨‍💻 My CP Profile:
 <p align="left">
@@ -26,17 +31,17 @@ Programming Languages:
 
 
 
+### Leetcode Stats:
+![Leetcode Stats](https://leetcard.jacoblin.cool/islamtariqul)
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/smtariqulislam00/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sm-tariqulislam/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/smtariqul_islam) 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=smtariqulislam&theme=midnight-purple&hide_border=true&locale=en)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=smtariqulislam&theme=midnight-purple&hide_border=true)<br/>
 
 
-### Leetcode Stats:
-![Leetcode Stats](https://leetcard.jacoblin.cool/islamtariqul)
+
 
 
 
